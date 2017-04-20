@@ -1,0 +1,108 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sputnik-lager.ru" resolutions="1x" timestamp="1492693769102">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_______-a.css" crc="4265348003" ref="index:о-лагере:контакты:галерея:вавкансии:путевки"/>
+    <file name="index.css" crc="327669855" ref="index"/>
+    <file name="iefonts_index.css" crc="4096488398" ref="index"/>
+    <file name="_-______.css" crc="329305946" ref="о-лагере"/>
+    <file name="iefonts__-______.css" crc="3871253515" ref="о-лагере"/>
+    <file name="________.css" crc="3929446384" ref="контакты"/>
+    <file name="iefonts_________.css" crc="4119173124" ref="контакты"/>
+    <file name="_______.css" crc="4273383527" ref="галерея"/>
+    <file name="iefonts________.css" crc="3947126684" ref="галерея"/>
+    <file name="_________.css" crc="4289996831" ref="вавкансии"/>
+    <file name="iefonts__________.css" crc="42066484" ref="вавкансии"/>
+    <file name="_______1.css" crc="4279536528" ref="путевки"/>
+    <file name="iefonts________1.css" crc="62511307" ref="путевки"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:галерея:контакты:путевки:вавкансии:о-лагере"/>
+    <file name="museutils.js" crc="163421577" ref="index:галерея:контакты:путевки:вавкансии:о-лагере"/>
+    <file name="whatinput.js" crc="86476730" ref="index:галерея:контакты:путевки:вавкансии:о-лагере"/>
+    <file name="museconfig.js" crc="168988563" ref="index:галерея:контакты:путевки:вавкансии:о-лагере"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:галерея:контакты:путевки:вавкансии:о-лагере"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:галерея:контакты:путевки:вавкансии:о-лагере"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:галерея:контакты:путевки:вавкансии:о-лагере"/>
+    <file name="require.js" crc="244322403" ref="index:галерея:контакты:путевки:вавкансии:о-лагере"/>
+  </folder>
+  <folder name="images">
+    <file name="главная-favicon.ico" crc="4278813671" ref="index"/>
+    <file name="screenshot_5.png" crc="3980056544" seo="true" ref="index:галерея:контакты:путевки:вавкансии:о-лагере"/>
+    <file name="u2460-9.png" crc="3840894896" ref="index"/>
+    <file name="icon2.png" crc="389990638" ref="index"/>
+    <file name="icon2-shape 3 копия.png" crc="460129451" ref="index"/>
+    <file name="u2468.png" crc="4136925316" ref="index"/>
+    <file name="u2468-r.png" crc="3851181007" ref="index"/>
+    <file name="icon.png" crc="73976551" ref="index"/>
+    <file name="icon-paint brush.png" crc="4175966315" ref="index"/>
+    <file name="icon3-u303.png" crc="270422844" ref="index"/>
+    <file name="icon3-u303-r.png" crc="202330184" ref="index"/>
+    <file name="u2478.png" crc="389958268" ref="index"/>
+    <file name="u2478-r.png" crc="3981151061" ref="index"/>
+    <file name="img_8198.jpg" crc="460500971" seo="true" ref="index"/>
+    <file name="img_7735.jpg" crc="4178813300" seo="true" ref="index"/>
+    <file name="img_8242.jpg" crc="3969003549" seo="true" ref="index"/>
+    <file name="img_8250.jpg" crc="488079966" seo="true" ref="index"/>
+    <file name="img_8306.jpg" crc="4049520638" seo="true" ref="index"/>
+    <file name="img_8312.jpg" crc="4039340978" seo="true" ref="index"/>
+    <file name="img_7983.jpg" crc="4273330885" seo="true" ref="index"/>
+    <file name="img_8112.jpg" crc="130487809" seo="true" ref="index"/>
+    <file name="img_8214690x517.jpg" crc="263999504" seo="true" ref="index"/>
+    <file name="facebook.png" crc="317936629" ref="index"/>
+    <file name="linkedin.png" crc="425971177" ref="index"/>
+    <file name="twitter.png" crc="4102706121" ref="index"/>
+    <file name="pinterest.png" crc="4214682508" ref="index"/>
+    <file name="dribbble.png" crc="4050684656" ref="index"/>
+    <file name="youtube.png" crc="442611654" ref="index"/>
+    <file name="img_7986.jpg" crc="4283330091" seo="true" ref="галерея"/>
+    <file name="img_7912.jpg" crc="423444383" seo="true" ref="галерея"/>
+    <file name="img_82148x6.jpg" crc="191885873" seo="true" ref="галерея"/>
+    <file name="img_9311.jpg" crc="461433246" seo="true" ref="галерея"/>
+    <file name="img_8071.jpg" crc="3818164039" seo="true" ref="галерея"/>
+    <file name="img_9324.jpg" crc="123635685" seo="true" ref="галерея"/>
+    <file name="img_9361.jpg" crc="354809827" seo="true" ref="галерея"/>
+    <file name="img_8054.jpg" crc="4049192985" seo="true" ref="галерея"/>
+    <file name="img_8052.jpg" crc="64134526" seo="true" ref="галерея"/>
+    <file name="img_8040.jpg" crc="359318063" seo="true" ref="галерея"/>
+    <file name="img_8027.jpg" crc="3992099907" seo="true" ref="галерея"/>
+    <file name="img_8026.jpg" crc="306676790" seo="true" ref="галерея"/>
+    <file name="img_7906.jpg" crc="379618974" seo="true" ref="галерея"/>
+    <file name="img_8024.jpg" crc="4206782921" seo="true" ref="галерея"/>
+    <file name="img_7802.jpg" crc="3915528008" seo="true" ref="галерея"/>
+    <file name="img_7801.jpg" crc="3767072992" seo="true" ref="галерея"/>
+    <file name="img_7913.jpg" crc="76732729" seo="true" ref="галерея"/>
+    <file name="img_7945.jpg" crc="421540955" seo="true" ref="галерея"/>
+    <file name="img_7791.jpg" crc="4051297880" seo="true" ref="галерея"/>
+    <file name="img_7795.jpg" crc="3913763698" seo="true" ref="галерея"/>
+    <file name="img_8214.jpg" crc="4086132321" seo="true" ref="галерея"/>
+    <file name="img_7929.jpg" crc="3907960781" seo="true" ref="галерея"/>
+    <file name="img_8138.jpg" crc="4015192874" seo="true" ref="галерея"/>
+    <file name="img_8135.jpg" crc="379920863" seo="true" ref="галерея"/>
+    <file name="img_8354.jpg" crc="406703106" seo="true" ref="галерея"/>
+    <file name="img_8085.jpg" crc="16421546" seo="true" ref="галерея"/>
+    <file name="address-book-icon.png" crc="19683197" seo="true" ref="контакты"/>
+    <file name="putevka (1).jpg" crc="284189903" seo="true" ref="путевки"/>
+    <file name="вставленное изображение 1920x1200.jpg" crc="4111475032" seo="true" ref="вавкансии"/>
+    <file name="img_8036.jpg" crc="169426075" seo="true" ref="о-лагере"/>
+    <file name="img_8072.jpg" crc="483047136" seo="true" ref="о-лагере"/>
+    <file name="img_7988.jpg" crc="533961786" seo="true" ref="о-лагере"/>
+    <file name="img_7824.jpg" crc="3772823779" seo="true" ref="о-лагере"/>
+    <file name="вставленное изображение 1087x730.jpg" crc="513133226" seo="true" ref="о-лагере"/>
+    <file name="вставленное изображение 1127x756.jpg" crc="4059067431" seo="true" ref="о-лагере"/>
+    <file name="img_8135492x369.jpg" crc="4245173865" seo="true" ref="о-лагере"/>
+    <file name="img_8138492x370.jpg" crc="75698095" seo="true" ref="о-лагере"/>
+    <file name="img_8112492x370.jpg" crc="512797213" seo="true" ref="о-лагере"/>
+    <file name="img_9324492x369.jpg" crc="4068484595" seo="true" ref="о-лагере"/>
+  </folder>
+  <file name="index.html" crc="4136504345" seo="true" mt="1492693689761" redirect="true"/>
+  <file name="галерея.html" crc="242975794" seo="true" mt="1492693689710" redirect="true"/>
+  <file name="контакты.html" crc="4173394035" seo="true" mt="1492693689710" redirect="true"/>
+  <file name="путевки.html" crc="3903165058" seo="true" mt="1492693689710" redirect="true"/>
+  <file name="вавкансии.html" crc="89779848" seo="true" mt="1492693689710" redirect="true"/>
+  <file name="о-лагере.html" crc="3833860450" seo="true" mt="1492693689710" redirect="true"/>
+</manifest>
